@@ -11,7 +11,7 @@
 #### 기록
 - 경진대회 참가 기간: 2020.08.09-08.13
 - 문제 정의: <**Regression**> 일자-시간별 *count* 예측하기 
-- [Part1. 데이터 탐색 및 전처리](Bike_demand/[Bike_demand]1.Data+FeatureEngineering+EDA.ipynb)
-- [Part2. 모델링 및 성능 평가](Bike_demand/[Bike_demand]2.Model+Evaluation+Predict.ipynb)
+- [Part1. 데이터 탐색 및 전처리](Bike_demand/1_Data+EDA.ipynb)
+- [Part2. 모델링 및 성능 평가](Bike_demand/2_Modeling+Evaluation.ipynb)
   - 결과: submisison score 0.40464 (상위 8%)
     > 종료된 대회이므로 랭킹은 정확하지 않다.
