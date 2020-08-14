@@ -10,7 +10,8 @@
   - 캐글 경험을 쌓기 위해 인프런의 [캐글 실습으로 배우는 데이터 사이언스](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle#) 강의와 [EDA & Ensemble Model](https://www.kaggle.com/viveksrinivasan/eda-ensemble-model-top-10-percentile/comments) 커널을 참고했습니다.
 #### 기록
 - 경진대회 참가 기간: 2020.08.09-08.13
-- [Part 1. 데이터 탐색 및 전처리]
-- [Part 2. 모델링 및 성능 평가]
+- 문제 정의: <**Regression**> 일자-시간별 *count* 예측하기 
+- [Part 1. 데이터 탐색 및 전처리](Bike_demand/ [Bike_demand]1.Data+Feature Engineering+EDA.ipynb)
+- [Part 2. 모델링 및 성능 평가](Bike_demand/ [Bike_demand]2. Model+Evaluation+Predict.ipynb)
   - 결과: submisison score 0.40464 (상위 8%)
     > 종료된 대회이므로 랭킹은 정확하지 않다.
